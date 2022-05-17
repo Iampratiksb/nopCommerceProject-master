@@ -65,3 +65,6 @@ class Test_002_DDT_Login():
 
         self.logger.info("******* End of Login DDT Test **********")
         self.logger.info("**************** Completed  TC_LoginDDT_002 ************* ");
+
+
+# Comment is added to check the working of GIT
